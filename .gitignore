@@ -1,0 +1,7 @@
+.env
+yarn.lock
+node_modules/
+cache/
+.vscode/
+artifacts/
+*.log.txt
